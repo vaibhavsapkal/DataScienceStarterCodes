@@ -1,1 +1,1 @@
-# This is repository for dta science starter codes.
+### Starter Codes for simple data science tasks.
